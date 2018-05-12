@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37061'
     url: http://www.gutenberg.org/2009/agents/37061
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34509#Better-Meals-for-Less-Money
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2010-11-30'
 gutenberg_type: Text
