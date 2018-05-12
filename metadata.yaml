@@ -1,0 +1,28 @@
+_repo: Better-Meals-for-Less-Money_34509
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Greenough, Marietta McPherson
+    alias: Green, Mary
+    birthdate: 1870
+    gutenberg_agent_id: '37061'
+    url: http://www.gutenberg.org/2009/agents/37061
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2010-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34509'
+  lccn: '17013798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+title: Better Meals for Less Money
+url: http://www.gutenberg.org/ebooks/34509
